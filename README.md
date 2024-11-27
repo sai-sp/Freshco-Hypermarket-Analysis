@@ -16,4 +16,4 @@ Providing the business solutions for the below metrics:
 9. **Arrival to Pickup**
 10. **Pickup to Delivery**
 
-Utilized strong and fundamental tool (Excel) for Data Manipulation, Data Analytics and Visualization. 
+Utilized powerful and fundamental tool (Excel) for Data Manipulation, Data Analytics and Visualization. 

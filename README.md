@@ -3,6 +3,8 @@ Freshco Hypermark, To ensure seamless operations and optimize customer satisfact
 
 # Business Metrics
 
+Providing the business solutions for the below metrics:
+
 1. **Completion Rate**
 2. **Customer Lifetime Value**
 3. **Acquisition Month**
@@ -14,3 +16,4 @@ Freshco Hypermark, To ensure seamless operations and optimize customer satisfact
 9. **Arrival to Pickup**
 10. **Pickup to Delivery**
 
+Utilized strong and fundamental tool (Excel) for Data Manipulation, Data Analytics and Visualization. 
